@@ -1,14 +1,14 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-04-26 01:57:31 +0000"
+      "unlock_right_away": "2025-04-26 03:43:32 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-04-26 01:57:43 +0000",
-      "minecraft:windswept_hills": "2025-04-26 01:57:32 +0000"
+      "minecraft:old_growth_birch_forest": "2025-04-26 03:43:58 +0000",
+      "minecraft:stony_shore": "2025-04-26 03:43:32 +0000"
     },
     "done": false
   },
