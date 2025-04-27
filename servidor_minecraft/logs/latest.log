@@ -1447,3 +1447,8 @@ Caused by: java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.
 [08:10:36] [Async Chat Thread - #44/INFO]: [Not Secure] <.Russyx7_on> se fue carmos y consigo diamante
 [08:10:40] [Async Chat Thread - #44/INFO]: [Not Secure] <.Russyx7_on> carlos*
 [08:14:09] [Async Chat Thread - #46/INFO]: [Not Secure] <.Padillla_0578> jajaja cagada
+[08:29:01] [Async Chat Thread - #48/INFO]: [Not Secure] <.Russyx7_on> ay mañana
+[08:29:07] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Russyx7_on disconnected
+[08:29:07] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Russyx7 on has disconnected from the Java server because of Bedrock client disconnected
+[08:29:07] [Server thread/INFO]: .Russyx7_on lost connection: Disconnected
+[08:29:07] [Server thread/INFO]: .Russyx7_on left the game
