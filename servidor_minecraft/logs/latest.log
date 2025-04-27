@@ -638,3 +638,172 @@ Caused by: java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.
 [21:01:04] [Server thread/INFO]: .Padillla_0578 lost connection: Disconnected
 [21:01:04] [Server thread/INFO]: .Padillla_0578 left the game
 [21:01:07] [Server thread/INFO]: .Juannes101 was slain by Spider
+[21:05:35] [Server thread/WARN]: .Juannes101 moved wrongly!
+[21:05:36] [Server thread/WARN]: .Juannes101 moved wrongly!
+[21:05:40] [Server thread/WARN]: .Juannes101 moved wrongly!
+[21:05:47] [Server thread/WARN]: .Juannes101 moved wrongly!
+[21:05:56] [Server thread/WARN]: .Juannes101 moved wrongly!
+[21:05:57] [Server thread/WARN]: .Juannes101 moved wrongly!
+[21:05:59] [Server thread/WARN]: .Juannes101 moved wrongly!
+[21:06:11] [Server thread/WARN]: .Juannes101 moved wrongly!
+[21:08:29] [User Authenticator #1/INFO]: UUID of player carlos_grcia is b360436b-8e8a-3c67-a420-75695a92920c
+[21:08:31] [Server thread/INFO]: carlos_grcia joined the game
+[21:08:31] [Server thread/INFO]: carlos_grcia[/127.203.55.128:41477] logged in with entity id 21664 at ([world]-1486.1149094010882, 67.73056174136778, 4717.699999988079)
+[21:08:31] [Folia Async Scheduler Thread #3/WARN]: [InstantRestock] Async task for InstantRestock v2.5.1 generated an exception
+java.lang.NullPointerException: null
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.get(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted$default(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.instantrestock.listeners.PlayerJoinEvent.onPlayerJoin$lambda$0(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.utils.PluginUpdater.getVersion$lambda$1(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.scheduler.schedulersImpl.folia.FoliaScheduler.runTaskAsynchronously$lambda$9(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:08:40] [Async Chat Thread - #16/INFO]: [Not Secure] <.Juannes101> carloossss
+[21:08:43] [Async Chat Thread - #16/INFO]: [Not Secure] <.Juannes101> tp porfa
+[21:08:55] [Async Chat Thread - #16/INFO]: [Not Secure] <carlos_grcia> no tengo op aquiio jajaja\
+[21:09:17] [Async Chat Thread - #16/INFO]: [Not Secure] <.Juannes101> hptaaaa
+[21:09:58] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Juannes101 has disconnected from the Java server because of Bedrock client timed out
+[21:09:58] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Juannes101 disconnected
+[21:09:58] [Server thread/INFO]: .Juannes101 lost connection: Disconnected
+[21:09:58] [Server thread/INFO]: .Juannes101 left the game
+[21:10:13] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Juannes101
+[21:10:13] [localSession-7-2/INFO]: [Geyser-Spigot] Juannes101 (logged in as: Juannes101) has connected to the Java server
+[21:10:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Juannes101 joined (UUID: 00000000-0000-0000-0009-01f45f88f442)
+[21:10:13] [Server thread/INFO]: .Juannes101 joined the game
+[21:10:13] [Server thread/INFO]: .Juannes101[/127.0.0.1:0] logged in with entity id 22243 at ([world]184.69999, 38.11568317254246, 248.30005)
+[21:10:33] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
+[21:10:33] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Juannes101 disconnected
+[21:10:33] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Juannes101 has disconnected from the Java server because of Bedrock client timed out
+[21:10:33] [Server thread/INFO]: .Juannes101 lost connection: Disconnected
+[21:10:33] [Server thread/INFO]: .Juannes101 left the game
+[21:11:15] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Juannes101
+[21:11:15] [localSession-7-3/INFO]: [Geyser-Spigot] Juannes101 (logged in as: Juannes101) has connected to the Java server
+[21:11:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Juannes101 joined (UUID: 00000000-0000-0000-0009-01f45f88f442)
+[21:11:16] [Server thread/INFO]: .Juannes101 joined the game
+[21:11:16] [Server thread/INFO]: .Juannes101[/127.0.0.1:0] logged in with entity id 22508 at ([world]184.69999, 38.0, 248.30005)
+[21:11:33] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Juannes101 disconnected
+[21:11:33] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Juannes101 has disconnected from the Java server because of Bedrock client timed out
+[21:11:33] [Server thread/INFO]: .Juannes101 lost connection: Disconnected
+[21:11:33] [Server thread/INFO]: .Juannes101 left the game
+[21:11:41] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Juannes101
+[21:11:41] [localSession-7-4/INFO]: [Geyser-Spigot] Juannes101 (logged in as: Juannes101) has connected to the Java server
+[21:11:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Juannes101 joined (UUID: 00000000-0000-0000-0009-01f45f88f442)
+[21:11:41] [Server thread/INFO]: .Juannes101 joined the game
+[21:11:41] [Server thread/INFO]: .Juannes101[/127.0.0.1:0] logged in with entity id 22732 at ([world]184.69999, 38.0, 248.30005)
+[21:11:55] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Jer3mias5
+[21:11:55] [localSession-7-1/INFO]: [Geyser-Spigot] Jer3mias5 (logged in as: Jer3mias5) has connected to the Java server
+[21:11:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Jer3mias5 joined (UUID: 00000000-0000-0000-0009-01fe3110a013)
+[21:11:55] [Server thread/INFO]: .Jer3mias5 joined the game
+[21:11:55] [Server thread/INFO]: .Jer3mias5[/127.0.0.1:0] logged in with entity id 22950 at ([world]-69.5, 69.0, 137.5)
+[21:11:55] [Craft Scheduler Thread - 697 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] .Jer3mias5 is now registered (00000000-0000-0000-0009-01fe3110a013).
+[21:12:01] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Juannes101 disconnected
+[21:12:01] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Juannes101 has disconnected from the Java server because of Bedrock client timed out
+[21:12:01] [Server thread/INFO]: .Juannes101 lost connection: Disconnected
+[21:12:01] [Server thread/INFO]: .Juannes101 left the game
+[21:12:14] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Jer3mias5 has disconnected from the Java server because of Bedrock client disconnected
+[21:12:14] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Jer3mias5 disconnected
+[21:12:14] [Server thread/INFO]: .Jer3mias5 lost connection: Disconnected
+[21:12:14] [Server thread/INFO]: .Jer3mias5 left the game
+[21:12:34] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
+[21:12:42] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username santiagodgc
+[21:12:42] [localSession-7-2/INFO]: [Geyser-Spigot] santiagodgc (logged in as: santiagodgc) has connected to the Java server
+[21:12:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .santiagodgc joined (UUID: 00000000-0000-0000-0009-01f44322008f)
+[21:12:42] [Server thread/INFO]: .santiagodgc joined the game
+[21:12:42] [Server thread/INFO]: .santiagodgc[/127.0.0.1:0] logged in with entity id 23155 at ([world]71.41017, 64.0, 205.75635)
+[21:12:53] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Jer3mias5
+[21:12:53] [localSession-7-3/INFO]: [Geyser-Spigot] Jer3mias5 (logged in as: Jer3mias5) has connected to the Java server
+[21:12:54] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Jer3mias5 joined (UUID: 00000000-0000-0000-0009-01fe3110a013)
+[21:12:54] [Server thread/INFO]: .Jer3mias5 joined the game
+[21:12:54] [Server thread/INFO]: .Jer3mias5[/127.0.0.1:0] logged in with entity id 23325 at ([world]-70.25975, 69.0, 139.46826)
+[21:13:00] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Juannes101
+[21:13:00] [localSession-7-4/INFO]: [Geyser-Spigot] Juannes101 (logged in as: Juannes101) has connected to the Java server
+[21:13:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Juannes101 joined (UUID: 00000000-0000-0000-0009-01f45f88f442)
+[21:13:01] [Server thread/INFO]: .Juannes101 joined the game
+[21:13:01] [Server thread/INFO]: .Juannes101[/127.0.0.1:0] logged in with entity id 23371 at ([world]184.69999, 38.0, 248.30005)
+[21:13:01] [Server thread/INFO]: carlos_grcia lost connection: Disconnected
+[21:13:01] [Server thread/INFO]: carlos_grcia left the game
+[21:13:02] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] santiagodgc has disconnected from the Java server because of Bedrock client timed out
+[21:13:02] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .santiagodgc disconnected
+[21:13:02] [Server thread/INFO]: .santiagodgc lost connection: Disconnected
+[21:13:02] [Server thread/INFO]: .santiagodgc left the game
+[21:13:02] [Craft Scheduler Thread - 701 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] Auto-purge: no claims removed.
+[21:13:10] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username santiagodgc
+[21:13:10] [localSession-7-1/INFO]: [Geyser-Spigot] santiagodgc (logged in as: santiagodgc) has connected to the Java server
+[21:13:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .santiagodgc joined (UUID: 00000000-0000-0000-0009-01f44322008f)
+[21:13:11] [Server thread/INFO]: .santiagodgc joined the game
+[21:13:11] [Server thread/INFO]: .santiagodgc[/127.0.0.1:0] logged in with entity id 23540 at ([world]71.69999, 64.0, 203.42404)
+[21:13:37] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Jer3mias5 disconnected
+[21:13:37] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Jer3mias5 has disconnected from the Java server because of Bedrock client timed out
+[21:13:37] [Server thread/INFO]: .Jer3mias5 lost connection: Disconnected
+[21:13:37] [Server thread/INFO]: .Jer3mias5 left the game
+[21:13:37] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .santiagodgc disconnected
+[21:13:37] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] santiagodgc has disconnected from the Java server because of Bedrock client timed out
+[21:13:37] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Juannes101 has disconnected from the Java server because of Bedrock client timed out
+[21:13:37] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Juannes101 disconnected
+[21:13:37] [Server thread/INFO]: .Juannes101 lost connection: Disconnected
+[21:13:37] [Server thread/INFO]: .Juannes101 left the game
+[21:13:37] [Server thread/INFO]: .santiagodgc lost connection: Disconnected
+[21:13:37] [Server thread/INFO]: .santiagodgc left the game
+[21:13:44] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username santiagodgc
+[21:13:44] [localSession-7-2/INFO]: [Geyser-Spigot] santiagodgc (logged in as: santiagodgc) has connected to the Java server
+[21:13:44] [Server thread/INFO]: [floodgate] Floodgate player logged in as .santiagodgc joined (UUID: 00000000-0000-0000-0009-01f44322008f)
+[21:13:44] [Server thread/INFO]: .santiagodgc joined the game
+[21:13:44] [Server thread/INFO]: .santiagodgc[/127.0.0.1:0] logged in with entity id 23602 at ([world]71.8744, 64.08770999847412, 200.75587)
+[21:14:03] [Server thread/INFO]: Stopping the server
+[21:14:03] [Server thread/INFO]: Stopping server
+[21:14:03] [Server thread/INFO]: [PrivateChest] Disabling PrivateChest v1.3
+[21:14:03] [Server thread/INFO]: [PrivateChest] ⛔ PrivateChest has been disabled.
+[21:14:03] [Server thread/INFO]: [BetterGUI] Disabling BetterGUI v10.2
+[21:14:03] [Server thread/INFO]: [SimpleClaimSystem] Disabling SimpleClaimSystem v1.12.3.2
+[21:14:03] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] SQLitePool - Shutdown initiated...
+[21:14:03] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] SQLitePool - Shutdown completed.
+[21:14:03] [Server thread/INFO]: ==========================================================================
+[21:14:03] [Server thread/INFO]: SimpleClaimSystem is disabled !
+[21:14:03] [Server thread/INFO]: Discord for support : https://discord.gg/6sRTGprM95
+[21:14:03] [Server thread/INFO]: Documentation : https://xyness.gitbook.io/simpleclaimsystem
+[21:14:03] [Server thread/INFO]: Developped by Xyness
+[21:14:03] [Server thread/INFO]: ==========================================================================
+[21:14:03] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.0-SNAPSHOT
+[21:14:03] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:14:03] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[21:14:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .santiagodgc disconnected
+[21:14:03] [Server thread/INFO]: [Geyser-Spigot] santiagodgc has disconnected from the Java server because of Apagando el proxy de Geyser.
+[21:14:03] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[21:14:03] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:14:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[21:14:03] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:14:03] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.1
+[21:14:03] [Server thread/INFO]: [HomesPlugin] Disabling HomesPlugin v1.0.0
+[21:14:03] [Server thread/INFO]: [HomesPlugin] HomesPlugin has been disabled!
+[21:14:03] [Server thread/INFO]: [JustTPA] Disabling JustTPA v20250220c
+[21:14:03] [Server thread/INFO]: [JustTPA] JustTPA disabled
+[21:14:03] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[21:14:03] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[21:14:03] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[21:14:03] [Server thread/INFO]: Saving players
+[21:14:03] [Server thread/INFO]: .santiagodgc lost connection: Server closed
+[21:14:03] [Server thread/INFO]: .santiagodgc left the game
+[21:14:03] [Server thread/INFO]: Saving worlds
+[21:14:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:14:03] [WebSocketConnectReadThread-100/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Saved 225 block chunks, 168 entity chunks, 0 poi chunks in world 'world' in 0.38s
+[21:14:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:14:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:14:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[21:14:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:14:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:14:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:14:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

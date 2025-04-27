@@ -8,6 +8,14 @@ homes:
       z: 203.5
       pitch: 0.0
       yaw: -180.0
+    mina:
+      ==: org.bukkit.Location
+      world: world
+      x: 198.4875
+      y: 24.0
+      z: 385.69999
+      pitch: 39.736465
+      yaw: 116.98328
   b360436b-8e8a-3c67-a420-75695a92920c:
     granja:
       ==: org.bukkit.Location
