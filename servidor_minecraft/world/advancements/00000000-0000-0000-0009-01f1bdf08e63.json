@@ -295,10 +295,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-27 05:25:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-27 05:01:13 +0000",
       "minecraft:forest": "2025-04-27 05:11:19 +0000",
+      "minecraft:ocean": "2025-04-27 05:24:57 +0000",
       "minecraft:cherry_grove": "2025-04-27 05:12:53 +0000",
       "minecraft:river": "2025-04-27 05:14:21 +0000",
+      "minecraft:meadow": "2025-04-27 05:21:47 +0000",
       "minecraft:stony_shore": "2025-04-27 05:00:53 +0000",
       "minecraft:frozen_peaks": "2025-04-27 05:12:03 +0000",
       "minecraft:plains": "2025-04-27 05:14:04 +0000"
@@ -349,7 +352,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-04-27 05:16:48 +0000",
+      "cooked_chicken": "2025-04-27 05:21:20 +0000",
       "rotten_flesh": "2025-04-27 05:15:12 +0000",
+      "cooked_mutton": "2025-04-27 05:17:18 +0000",
       "cooked_beef": "2025-04-27 05:10:02 +0000"
     },
     "done": false
