@@ -13,6 +13,7 @@
       "minecraft:river": "2025-04-27 05:52:52 +0000",
       "minecraft:meadow": "2025-04-27 05:58:06 +0000",
       "minecraft:stony_shore": "2025-04-27 04:57:21 +0000",
+      "minecraft:dripstone_caves": "2025-04-27 06:08:08 +0000",
       "minecraft:plains": "2025-04-27 05:55:47 +0000"
     },
     "done": false
@@ -281,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-27 06:06:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-04-27 05:22:50 +0000"
@@ -341,6 +348,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-27 06:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-27 05:42:14 +0000"
@@ -386,6 +399,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-27 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-27 06:06:48 +0000"
     },
     "done": true
   },
@@ -536,6 +555,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-27 05:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-27 06:06:48 +0000"
     },
     "done": true
   },
@@ -740,6 +765,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-27 06:06:48 +0000"
     },
     "done": true
   },
@@ -949,6 +980,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-27 06:06:48 +0000"
     },
     "done": true
   },
