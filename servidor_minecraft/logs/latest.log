@@ -366,3 +366,34 @@ Yo te veo padilla<--[HERE]
 [05:53:02] [Server thread/INFO]: .CESARTC3[/127.0.0.1:0] logged in with entity id 43252 at ([world]99.774605, 72.0, 235.20865)
 [05:56:54] [Server thread/INFO]: .SXNTIAGOGX has made the advancement [Stone Age]
 [05:57:52] [Server thread/WARN]: .Padillla_0578 moved wrongly!
+[05:58:03] [Server thread/INFO]: .santiagodgc has made the advancement [Stone Age]
+[05:58:08] [Server thread/INFO]: .SXNTIAGOGX was blown up by Creeper
+[05:58:09] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Padillla 0578 has disconnected from the Java server because of Bedrock client disconnected
+[05:58:09] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Padillla_0578 disconnected
+[05:58:09] [Server thread/INFO]: .Padillla_0578 lost connection: Disconnected
+[05:58:09] [Server thread/INFO]: .Padillla_0578 left the game
+[05:58:38] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Padillla 0578
+[05:58:38] [localSession-7-3/INFO]: [Geyser-Spigot] Padillla 0578 (logged in as: Padillla_0578) has connected to the Java server
+[05:58:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Padillla_0578 joined (UUID: 00000000-0000-0000-0009-01f1bdf08e63)
+[05:58:38] [Server thread/INFO]: .Padillla_0578 joined the game
+[05:58:38] [Server thread/INFO]: .Padillla_0578[/127.0.0.1:0] logged in with entity id 54474 at ([world]-2384.458, 78.0, -2364.0583)
+[05:59:56] [Server thread/WARN]: .CESARTC3 moved wrongly!
+[06:00:15] [Server thread/INFO]: .Russyx7_on has made the advancement [Isn't It Iron Pick]
+[06:01:18] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] ZTXXLARA07 has disconnected from the Java server because of Bedrock client disconnected
+[06:01:18] [Server thread/INFO]: ZTXXLARA07 lost connection: Disconnected
+[06:01:18] [Server thread/INFO]: ZTXXLARA07 left the game
+[06:02:38] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username PoisonBike00893
+[06:02:38] [localSession-7-4/INFO]: [Geyser-Spigot] PoisonBike00893 (logged in as: PoisonBike00893) has connected to the Java server
+[06:02:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .PoisonBike00893 joined (UUID: 00000000-0000-0000-0009-01fb19b6cf88)
+[06:02:39] [Server thread/INFO]: .PoisonBike00893 joined the game
+[06:02:39] [Server thread/INFO]: .PoisonBike00893[/127.0.0.1:0] logged in with entity id 61174 at ([world]-65.48327, 71.0, 129.51628)
+[06:03:33] [Server thread/INFO]: .SXNTIAGOGX was slain by Zombie
+[06:04:45] [Server thread/INFO]: .Russyx7_on has made the advancement [Suit Up]
+[06:04:53] [Server thread/INFO]: .PoisonBike00893 has made the advancement [Monster Hunter]
+[06:05:36] [Server thread/INFO]: .PoisonBike00893 issued server command: /claim
+[06:05:38] [User Authenticator #1/INFO]: UUID of player TRALALEROTRALALA is 2f49794d-b06b-342f-89e2-c75ee3709c1f
+[06:05:41] [Server thread/INFO]: TRALALEROTRALALA joined the game
+[06:05:41] [Server thread/INFO]: TRALALEROTRALALA[/127.215.104.29:34689] logged in with entity id 65712 at ([world]-66.5, 69.0, 138.5)
+[06:05:41] [Craft Scheduler Thread - 383 - SimpleClaimSystem/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:05:41] [Craft Scheduler Thread - 383 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] TRALALEROTRALALA is now registered (2f49794d-b06b-342f-89e2-c75ee3709c1f).
+[06:07:43] [Server thread/INFO]: .PoisonBike00893 has made the advancement [Stone Age]

@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-04-27 05:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-27 05:36:08 +0000"
@@ -502,6 +508,7 @@
       "minecraft:badlands": "2025-04-27 05:51:32 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-27 05:33:35 +0000",
       "minecraft:desert": "2025-04-27 05:49:05 +0000",
+      "minecraft:mangrove_swamp": "2025-04-27 05:54:19 +0000",
       "minecraft:ocean": "2025-04-27 05:34:52 +0000",
       "minecraft:deep_ocean": "2025-04-27 05:38:49 +0000",
       "minecraft:river": "2025-04-27 05:39:41 +0000",
