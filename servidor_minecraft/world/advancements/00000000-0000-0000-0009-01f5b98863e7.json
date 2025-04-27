@@ -12,7 +12,8 @@
       "minecraft:ocean": "2025-04-27 06:04:51 +0000",
       "minecraft:river": "2025-04-27 05:31:41 +0000",
       "minecraft:birch_forest": "2025-04-27 05:32:05 +0000",
-      "minecraft:stony_shore": "2025-04-27 05:29:15 +0000"
+      "minecraft:stony_shore": "2025-04-27 05:29:15 +0000",
+      "minecraft:plains": "2025-04-27 06:19:11 +0000"
     },
     "done": false
   },
@@ -37,6 +38,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-27 05:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-27 06:24:51 +0000"
     },
     "done": true
   },
@@ -235,6 +242,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-04-27 06:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-27 06:24:51 +0000"
     },
     "done": true
   },
@@ -494,7 +507,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-04-27 05:37:22 +0000",
-      "rotten_flesh": "2025-04-27 05:32:19 +0000"
+      "chicken": "2025-04-27 06:18:35 +0000",
+      "rotten_flesh": "2025-04-27 05:32:19 +0000",
+      "cooked_beef": "2025-04-27 06:21:20 +0000"
     },
     "done": false
   },
