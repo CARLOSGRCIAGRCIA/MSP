@@ -1452,3 +1452,7 @@ Caused by: java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.
 [08:29:07] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Russyx7 on has disconnected from the Java server because of Bedrock client disconnected
 [08:29:07] [Server thread/INFO]: .Russyx7_on lost connection: Disconnected
 [08:29:07] [Server thread/INFO]: .Russyx7_on left the game
+[08:41:38] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Padillla_0578 disconnected
+[08:41:38] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Padillla 0578 has disconnected from the Java server because of Bedrock client disconnected
+[08:41:38] [Server thread/INFO]: .Padillla_0578 lost connection: Disconnected
+[08:41:38] [Server thread/INFO]: .Padillla_0578 left the game
