@@ -130,3 +130,37 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:53:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ingrus05 joined (UUID: 00000000-0000-0000-0009-01ff7e8dfcb1)
 [19:53:36] [Server thread/INFO]: .Ingrus05 joined the game
 [19:53:36] [Server thread/INFO]: .Ingrus05[/127.0.0.1:0] logged in with entity id 445 at ([world]-37.438747, 71.0, 129.30147)
+[19:54:26] [Async Chat Thread - #0/INFO]: [Not Secure] <.Ingrus05> cómo le pongo mi propiedad
+[19:54:33] [Async Chat Thread - #0/INFO]: [Not Secure] <.Padillla_0578> jum
+[19:54:39] [Async Chat Thread - #0/INFO]: [Not Secure] <.Padillla_0578> duerma mas bien
+[19:55:10] [Async Chat Thread - #0/INFO]: [Not Secure] <.Ingrus05> no tengo cama
+[19:55:38] [Server thread/INFO]: .Padillla_0578 was slain by Iron Golem
+[19:58:45] [Server thread/INFO]: .Padillla_0578 hit the ground too hard while trying to escape Iron Golem
+[19:59:19] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Ingrus05 has disconnected from the Java server because of Bedrock client disconnected
+[19:59:19] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Ingrus05 disconnected
+[19:59:19] [Server thread/INFO]: .Ingrus05 lost connection: Disconnected
+[19:59:19] [Server thread/INFO]: .Ingrus05 left the game
+[20:02:23] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Ingrus05
+[20:02:23] [localSession-7-4/INFO]: [Geyser-Spigot] Ingrus05 (logged in as: Ingrus05) has connected to the Java server
+[20:02:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ingrus05 joined (UUID: 00000000-0000-0000-0009-01ff7e8dfcb1)
+[20:02:23] [Server thread/INFO]: .Ingrus05 joined the game
+[20:02:23] [Server thread/INFO]: .Ingrus05[/127.0.0.1:0] logged in with entity id 3583 at ([world]-57.419056, 69.0, 381.52917)
+[20:05:21] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username santiagodgc
+[20:05:21] [localSession-7-1/INFO]: [Geyser-Spigot] santiagodgc (logged in as: santiagodgc) has connected to the Java server
+[20:05:21] [Server thread/INFO]: [floodgate] Floodgate player logged in as .santiagodgc joined (UUID: 00000000-0000-0000-0009-01f44322008f)
+[20:05:21] [Server thread/INFO]: .santiagodgc joined the game
+[20:05:21] [Server thread/INFO]: .santiagodgc[/127.0.0.1:0] logged in with entity id 4651 at ([world]64.90984, 64.0, 204.23663)
+[20:06:07] [Server thread/INFO]: .Padillla_0578 has made the advancement [What a Deal!]
+[20:07:11] [Server thread/INFO]: .Ingrus05 has made the advancement [Stone Age]
+[20:10:48] [Async Chat Thread - #2/INFO]: [Not Secure] <.Padillla_0578> tienen cama
+[20:11:14] [Server thread/INFO]: .santiagodgc issued server command: /casa
+[20:11:30] [Server thread/INFO]: .santiagodgc issued server command: /home
+[20:11:46] [Server thread/INFO]: .santiagodgc issued server command: /home
+[20:12:12] [Async Chat Thread - #4/INFO]: [Not Secure] <.santiagodgc> estoy lejos
+[20:13:02] [Craft Scheduler Thread - 359 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] Auto-purge: no claims removed.
+[20:13:16] [Server thread/INFO]: .Ingrus05 was blown up by Creeper
+[20:13:41] [Async Chat Thread - #6/INFO]: [Not Secure] <.Ingrus05> ya tenía cosas ahhhhhhhhhh
+[20:13:42] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .santiagodgc disconnected
+[20:13:42] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] santiagodgc has disconnected from the Java server because of Bedrock client disconnected
+[20:13:42] [Server thread/INFO]: .santiagodgc lost connection: Disconnected
+[20:13:42] [Server thread/INFO]: .santiagodgc left the game
