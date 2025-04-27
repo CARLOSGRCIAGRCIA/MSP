@@ -1,61 +1,117 @@
-[02:06:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[02:06:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[02:06:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:06:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[02:06:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.7.0-SNAPSHOT), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[02:06:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:06:18] [ServerMain/INFO]: Loaded 1290 recipes
-[02:06:18] [ServerMain/INFO]: Loaded 1399 advancements
-[02:06:18] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:06:18] [Server thread/INFO]: Loading properties
-[02:06:18] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[02:06:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:06:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:06:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:06:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:06:21] [Server thread/INFO]: Default game type: SURVIVAL
-[02:06:21] [Server thread/INFO]: Generating keypair
-[02:06:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:06:21] [Server thread/INFO]: Using epoll channel type
-[02:06:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:06:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:06:23] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[02:06:25] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[02:06:26] [Server thread/INFO]: [floodgate] Took 2,868ms to boot Floodgate
-[02:06:26] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
-[02:06:26] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[02:06:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:06:28] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:06:29] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.0-SNAPSHOT
-[02:06:32] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[02:06:32] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[02:06:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:06:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:06:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:06:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:06:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:06:32] [Server thread/INFO]: Preparing level "world"
-[02:06:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:06:34] [Server thread/INFO]: Time elapsed: 1443 ms
-[02:06:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:06:35] [Server thread/INFO]: Time elapsed: 763 ms
-[02:06:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:06:35] [Server thread/INFO]: Time elapsed: 161 ms
-[02:06:35] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[02:06:36] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[02:06:36] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[02:06:36] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.0-SNAPSHOT
-[02:06:37] [Server thread/INFO]: [spark] Starting background profiler...
-[02:06:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:06:38] [Server thread/INFO]: [Geyser-Spigot] 
-[02:06:38] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.0-b816 (git-master-c5fd3d4)
-[02:06:38] [Server thread/INFO]: [Geyser-Spigot] 
-[02:06:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:06:50] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 4069
-[02:06:51] [Server thread/INFO]: [Geyser-Spigot] Done (12.58s)! Run /geyser help for help!
-[02:06:51] [Server thread/INFO]: Done preparing level "world" (18.831s)
-[02:06:51] [Server thread/INFO]: Running delayed init tasks
-[02:06:51] [Server thread/INFO]: Done (43.735s)! For help, type "help"
-[02:06:51] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[02:06:51] [Server thread/INFO]: Timings Reset
+[04:47:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[04:47:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[04:47:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:47:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[04:47:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - Geyser-Spigot (2.7.0-SNAPSHOT), HomesPlugin (1.0.0), PrivateChest (1.3), RaidPool (1.0), SimpleClaimSystem (1.12.3.2), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[04:47:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:47:10] [ServerMain/INFO]: Loaded 1290 recipes
+[04:47:11] [ServerMain/INFO]: Loaded 1399 advancements
+[04:47:11] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:47:11] [Server thread/INFO]: Loading properties
+[04:47:11] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:47:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:47:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:47:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:47:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:47:14] [Server thread/INFO]: Default game type: SURVIVAL
+[04:47:14] [Server thread/INFO]: Generating keypair
+[04:47:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:47:14] [Server thread/INFO]: Using epoll channel type
+[04:47:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:47:14] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:47:14] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/RaidPool-1.0.jar' in 'plugins/.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [RaidCore]. Please download and install these plugins to run 'RaidPool'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:546) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04:47:16] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[04:47:19] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[04:47:19] [Server thread/INFO]: [floodgate] Took 2,932ms to boot Floodgate
+[04:47:19] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[04:47:19] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[04:47:20] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[04:47:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[04:47:23] [Server thread/INFO]: [HomesPlugin] Loading server plugin HomesPlugin v1.0.0
+[04:47:23] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.0-SNAPSHOT
+[04:47:25] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[04:47:25] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[04:47:25] [Server thread/INFO]: [SimpleClaimSystem] Loading server plugin SimpleClaimSystem v1.12.3.2
+[04:47:25] [Server thread/INFO]: [PrivateChest] Loading server plugin PrivateChest v1.3
+[04:47:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:47:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:47:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:47:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:47:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:47:25] [Server thread/INFO]: Preparing level "world"
+[04:47:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:47:27] [Server thread/INFO]: Time elapsed: 1414 ms
+[04:47:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:47:28] [Server thread/INFO]: Time elapsed: 475 ms
+[04:47:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:47:28] [Server thread/INFO]: Time elapsed: 209 ms
+[04:47:28] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[04:47:29] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[04:47:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[04:47:29] [Server thread/INFO]: [HomesPlugin] Enabling HomesPlugin v1.0.0
+[04:47:29] [Server thread/INFO]: [HomesPlugin] HomesPlugin has been enabled!
+[04:47:29] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.0-SNAPSHOT
+[04:47:30] [Server thread/INFO]: [SimpleClaimSystem] Enabling SimpleClaimSystem v1.12.3.2
+[04:47:30] [Server thread/INFO]: ==========================================================================
+[04:47:30] [Server thread/INFO]:   ___   ___   ___ 
+[04:47:30] [Server thread/INFO]:  / __| / __| / __|  SimpleClaimSystem v1.12.3.2
+[04:47:30] [Server thread/INFO]:  \__ \ ∣(__  \__ \  You are using the latest version
+[04:47:30] [Server thread/INFO]:  |___/ \___| |___/  Running on 1.21-130-b1b5d4c (MC: 1.21)
+[04:47:30] [Server thread/INFO]:  
+[04:47:31] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] SQLitePool - Starting...
+[04:47:31] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] SQLitePool - Start completed.
+[04:47:31] [Server thread/INFO]: 'expulsion-location' : don't forget to set it with /scs setexpulsionlocation.
+[04:47:32] [Server thread/INFO]:  
+[04:47:32] [Server thread/INFO]: Loading claims..
+[04:47:32] [Server thread/INFO]: 0/0 claims loaded.
+[04:47:32] [Server thread/INFO]: > including 0 protected areas.
+[04:47:32] [Server thread/INFO]:  
+[04:47:32] [Server thread/INFO]: Loading players..
+[04:47:32] [Server thread/INFO]: 0 players loaded.
+[04:47:32] [Server thread/INFO]:  
+[04:47:32] [Server thread/INFO]: SimpleClaimSystem is enabled !
+[04:47:32] [Server thread/INFO]: Discord for support : https://discord.gg/6sRTGprM95
+[04:47:32] [Server thread/INFO]: Documentation : https://xyness.gitbook.io/simpleclaimsystem
+[04:47:32] [Server thread/INFO]: Developped by Xyness
+[04:47:32] [Server thread/INFO]: ==========================================================================
+[04:47:32] [Server thread/INFO]: [PrivateChest] Enabling PrivateChest v1.3
+[04:47:32] [Server thread/INFO]: [PrivateChest] Loaded locked chests.
+[04:47:32] [Server thread/INFO]: [PrivateChest] ✅ PrivateChest has been enabled successfully.
+[04:47:32] [Server thread/INFO]: [spark] Starting background profiler...
+[04:47:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[04:47:33] [Server thread/INFO]: [Geyser-Spigot] 
+[04:47:33] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.0-b816 (git-master-c5fd3d4)
+[04:47:33] [Server thread/INFO]: [Geyser-Spigot] 
+[04:47:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[04:47:45] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 4069
+[04:47:45] [Server thread/INFO]: [Geyser-Spigot] Done (12.296s)! Run /geyser help for help!
+[04:47:46] [Server thread/INFO]: Done preparing level "world" (20.403s)
+[04:47:46] [Server thread/INFO]: Running delayed init tasks
+[04:47:46] [Server thread/INFO]: Done (45.053s)! For help, type "help"
+[04:47:46] [Server thread/INFO]: Timings Reset
+[04:47:46] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[04:52:22] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username carlosTxGx
+[04:52:22] [localSession-7-2/INFO]: [Geyser-Spigot] carlosTxGx (logged in as: carlosTxGx) has connected to the Java server
+[04:52:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .carlosTxGx joined (UUID: 00000000-0000-0000-0009-01f29e52ef2e)
+[04:52:23] [Server thread/INFO]: .carlosTxGx joined the game
+[04:52:23] [Server thread/INFO]: .carlosTxGx[/127.0.0.1:0] logged in with entity id 81 at ([world]-55.7716, 72.0, 126.4085)
+[04:52:23] [Craft Scheduler Thread - 7 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] .carlosTxGx is now registered (00000000-0000-0000-0009-01f29e52ef2e).
+[04:52:29] [Server thread/INFO]: Made carlosTxGx a server operator
+[04:53:22] [Server thread/INFO]: .carlosTxGx issued server command: /claim
+[04:54:02] [Server thread/INFO]: .carlosTxGx issued server command: /gamemode 1
+[04:54:17] [Server thread/INFO]: .carlosTxGx issued server command: /gamemode 1
+[04:55:12] [Server thread/INFO]: Made .carlosTxGx a server operator
+[04:55:32] [Server thread/INFO]: .carlosTxGx issued server command: /gamemode 1
+[04:55:48] [Server thread/INFO]: .carlosTxGx issued server command: /gamemode 1
+[04:56:01] [Server thread/INFO]: .carlosTxGx issued server command: /gamemode creative
+[04:56:01] [Server thread/INFO]: [.carlosTxGx: Set own game mode to Creative Mode]

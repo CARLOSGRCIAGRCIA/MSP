@@ -1,0 +1,107 @@
+# HomesPlugin Configuration
+
+# Maximum number of homes a player can have
+max-homes: 4
+
+# Teleport delay in seconds
+teleport-delay: 3
+
+# Sound effects
+sounds:
+  home-set: "BLOCK_NOTE_BLOCK_PLING"
+  home-deleted: "BLOCK_NOTE_BLOCK_PLING"
+  teleport-countdown: "BLOCK_NOTE_BLOCK_BIT"
+  teleport-success: "ENTITY_ENDERMAN_TELEPORT"
+  teleport-error: "BLOCK_NOTE_BLOCK_BASS"
+
+# GUI settings
+gui:
+  # Number of rows in the GUI (3-6)
+  rows: 3
+
+  # Main GUI title
+  homes-title: "&8Your Homes"
+
+  # Whether to use a background item to fill empty slots
+  use-background: false
+
+  # Background item (if use-background is true)
+  background-item:
+    material: "BLACK_STAINED_GLASS_PANE"
+    name: " "
+
+  # Slots where homes will be displayed (can be customized)
+  home-slots: [10, 11, 12, 13, 14, 15, 16]
+
+  # Home item configuration
+  home-item:
+    material: "RED_BED"
+    name: "&c%home%"
+    lore:
+      - "&7World: &f%world%"
+      - "&7X: &f%x% &7Y: &f%y% &7Z: &f%z%"
+      - " "
+      - "&7Left-click to teleport"
+      - "&7Right-click to delete"
+
+  # Empty slot item configuration
+  empty-slot-item:
+    material: "LIGHT_GRAY_BED"
+    name: "&7Empty Slot"
+    lore:
+      - "&7Use /sethome <name> to set a home"
+
+  # Delete confirmation GUI
+  delete-confirmation:
+    rows: 3
+    title: "&8Delete Home: %home%"
+    use-background: false
+
+    # Background item (if use-background is true)
+    background-item:
+      material: "BLACK_STAINED_GLASS_PANE"
+      name: " "
+
+    # Confirm button
+    confirm-slot: 11
+    confirm-item:
+      material: "LIME_WOOL"
+      name: "&aConfirm Deletion"
+      lore:
+        - "&7Click to delete home '%home%'"
+
+    # Cancel button
+    cancel-slot: 15
+    cancel-item:
+      material: "RED_WOOL"
+      name: "&cCancel"
+      lore:
+        - "&7Click to return to homes menu"
+
+# Messages
+messages:
+  # Command usage
+  usage-sethome: "&c&lHOME &8→ &cUsage: /sethome <name>"
+  usage-delhome: "&c&lHOME &8→ &cUsage: /delhome <name>"
+
+  # Home management
+  home-set: "&c&lHOME &8→ &aHome '%home%' set successfully!"
+  home-set-failed: "&c&lHOME &8→ &cFailed to set home!"
+  home-already-exists: "&c&lHOME &8→ &cYou already have a home named '%home%'!"
+  max-homes-reached: "&c&lHOME &8→ &cYou have reached the maximum number of homes (%max%)!"
+  home-deleted: "&c&lHOME &8→ &aHome '%home%' deleted successfully!"
+  home-not-found: "&c&lHOME &8→ &cYou don't have a home named '%home%'!"
+
+  # Teleportation
+  teleport-countdown: "&c&lHOME &8→ &fYou will be teleported in %seconds% seconds."
+  teleport-success: "&c&lHOME &8→ &fTeleported successfully to Home '%home%'!"
+  teleport-cancelled: "&c&lHOME &8→ &cTeleport cancelled! %reason%!"
+  already-teleporting: "&c&lHOME &8→ &cYou are already teleporting!"
+
+  # GUI messages
+  empty-slot: "&c&lHOME &8→ &cThis slot is empty. Use /sethome <name> to set a home."
+
+  # Home listing
+  no-homes: "&c&lHOME &8→ &cYou don't have any homes set!"
+  homes-list-header: "&c&lHOME &8→ &6Your homes:"
+  homes-list-entry: "&c&lHOME &8→ &7- &f%home% &7(&f%world%&7: &f%x%&7, &f%y%&7, &f%z%&7)"

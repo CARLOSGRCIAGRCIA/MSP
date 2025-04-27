@@ -1,0 +1,22 @@
+# PrivateChest Configuration File
+
+# PrivateChest Configuration
+
+# Should the plugin add a prefix to all messages?
+use-prefix: true
+
+# The prefix to show before messages
+prefix: "&7[&6PrivateChest&7] "
+
+# Whether double chests can be protected. If false, only single chests are allowed.
+allow-double-chests: true
+
+# Time (in seconds) a chest remains unlocked after a successful password entry.
+# If 0, the chest remains locked and must be unlocked each time.
+unlock-duration-seconds: 0
+
+# Whether other players can unlock a chest if they know the password, even if they are not the owner.
+allow-shared-access: false
+
+# Show a notification to the owner when they open their own chest
+notify-owner-on-open: true
