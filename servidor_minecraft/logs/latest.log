@@ -431,3 +431,63 @@ Yo te veo padilla<--[HERE]
 [06:29:06] [Async Chat Thread - #15/INFO]: [Not Secure] <.SXNTIAGOGX> no encontramos ovejas ya casi encontramos aldea
 [06:29:16] [Async Chat Thread - #15/INFO]: [Not Secure] <.CESARTC3> yo encontré la primera en mas de 5000 bloques jajajajjaja
 [06:29:18] [Async Chat Thread - #15/INFO]: [Not Secure] <.Padillla_0578> ya me encontre tres aldeas
+[06:29:28] [Server thread/INFO]: Villager Villager['Villager'/96062, uuid='02eb9786-40ff-48be-b344-844545cb2561', l='ServerLevel[world]', x=-2509.50, y=65.00, z=-3118.50, cpos=[-157, -195], tl=10841, v=true] died, message: 'Villager was slain by Husk'
+[06:29:28] [Async Chat Thread - #14/INFO]: [Not Secure] <.SXNTIAGOGX> uy no
+[06:29:35] [Server thread/INFO]: Villager Villager['Nitwit'/95861, uuid='8030d2ee-e6fd-49b6-bbcf-ec321c22d294', l='ServerLevel[world]', x=-2510.57, y=65.00, z=-3118.48, cpos=[-157, -195], tl=10997, v=true] died, message: 'Nitwit was slain by Husk'
+[06:29:45] [Async Chat Thread - #14/INFO]: [Not Secure] <.Padillla_0578> y una pirámide del desierto
+[06:29:48] [Async Chat Thread - #14/INFO]: [Not Secure] <.CESARTC3> 3 dias y full diamante
+[06:29:55] [Async Chat Thread - #14/INFO]: [Not Secure] <.SXNTIAGOGX> .kick
+[06:29:56] [Async Chat Thread - #14/INFO]: [Not Secure] <.Padillla_0578> una noche
+[06:30:03] [Async Chat Thread - #14/INFO]: [Not Secure] <.PoisonBike00893> ya mate a la dragona
+[06:30:22] [Async Chat Thread - #14/INFO]: [Not Secure] <.SXNTIAGOGX> ya la embarazó y todo
+[06:30:24] [Async Chat Thread - #15/INFO]: [Not Secure] <.CESARTC3> ya tengo elitras full nederithe pvp?
+[06:30:41] [Async Chat Thread - #15/INFO]: [Not Secure] <.CESARTC3> todos vs yo solo
+[06:30:44] [Async Chat Thread - #15/INFO]: [Not Secure] <.Russyx7_on> ando con espada encantada ya
+[06:31:04] [Async Chat Thread - #15/INFO]: [Not Secure] <.CESARTC3> yo con acha afulado V
+[06:32:23] [Async Chat Thread - #17/INFO]: [Not Secure] <.Russyx7_on> Diablos
+[06:32:32] [Async Chat Thread - #16/INFO]: [Not Secure] <.Russyx7_on> mi espada de oro con filo 2
+[06:33:54] [Server thread/INFO]: .Padillla_0578 has made the advancement [Ice Bucket Challenge]
+[06:34:53] [Server thread/WARN]: .SXNTIAGOGX moved wrongly!
+[06:37:38] [Server thread/WARN]: .CESARTC3 moved wrongly!
+[06:37:41] [Server thread/INFO]: .CESARTC3 has made the advancement [Acquire Hardware]
+[06:38:44] [Server thread/INFO]: .Padillla_0578 has made the advancement [Diamonds!]
+[06:39:56] [Server thread/WARN]: .PoisonBike00893 moved wrongly!
+[06:43:37] [Async Chat Thread - #19/INFO]: [Not Secure] <.Russyx7_on> ya traen cama
+[06:43:42] [Async Chat Thread - #19/INFO]: [Not Secure] <.Russyx7_on> ?
+[06:43:48] [Async Chat Thread - #19/INFO]: [Not Secure] <.PoisonBike00893> no
+[06:44:11] [Server thread/INFO]: .SXNTIAGOGX was slain by Zombie
+[06:44:49] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .SXNTIAGOGX disconnected
+[06:44:49] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] SXNTIAGOGX has disconnected from the Java server because of Bedrock client disconnected
+[06:44:49] [Server thread/INFO]: .SXNTIAGOGX lost connection: Disconnected
+[06:44:49] [Server thread/INFO]: .SXNTIAGOGX left the game
+[06:44:56] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] santiagodgc has disconnected from the Java server because of Bedrock client disconnected
+[06:44:56] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .santiagodgc disconnected
+[06:44:56] [Server thread/INFO]: .santiagodgc lost connection: Disconnected
+[06:44:56] [Server thread/INFO]: .santiagodgc left the game
+[06:45:10] [Server thread/INFO]: Villager Villager['Villager'/109094, uuid='59707127-ac7c-4431-880d-22bd27e5a23e', l='ServerLevel[world]', x=1396.63, y=63.00, z=-1032.87, cpos=[87, -65], tl=12231, v=true] died, message: 'Villager was slain by Zombie'
+[06:45:18] [Server thread/INFO]: Villager Villager['Farmer'/110287, uuid='0324835b-6c36-4310-a64e-0f878805c2b9', l='ServerLevel[world]', x=1396.70, y=63.00, z=-1032.73, cpos=[87, -65], tl=12391, v=true] died, message: 'Farmer was slain by Zombie'
+[06:45:19] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] CESARTC3 has disconnected from the Java server because of Bedrock client timed out
+[06:45:19] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CESARTC3 disconnected
+[06:45:19] [Server thread/INFO]: .CESARTC3 lost connection: Disconnected
+[06:45:19] [Server thread/INFO]: .CESARTC3 left the game
+[06:45:25] [Server thread/INFO]: Villager Villager['Villager'/110286, uuid='aa5f0151-e279-414c-88d5-337b9734c5b7', l='ServerLevel[world]', x=1396.30, y=63.00, z=-1032.73, cpos=[87, -65], tl=12523, v=true] died, message: 'Villager was slain by Zombie'
+[06:45:33] [Server thread/INFO]: .Padillla_0578 has made the advancement [Suit Up]
+[06:46:21] [Async Chat Thread - #20/INFO]: [Not Secure] <.Padillla_0578> tienen cama
+[06:46:33] [Async Chat Thread - #20/INFO]: [Not Secure] <.Russyx7_on> yo si russo no
+[06:46:33] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username santiagodgc
+[06:46:33] [localSession-7-1/INFO]: [Geyser-Spigot] santiagodgc (logged in as: santiagodgc) has connected to the Java server
+[06:46:34] [Server thread/INFO]: [floodgate] Floodgate player logged in as .santiagodgc joined (UUID: 00000000-0000-0000-0009-01f44322008f)
+[06:46:34] [Server thread/INFO]: .santiagodgc joined the game
+[06:46:34] [Server thread/INFO]: .santiagodgc[/127.0.0.1:0] logged in with entity id 125777 at ([world]44.880196, 72.0, 167.62534)
+[06:46:35] [Server thread/INFO]: Villager Villager['Farmer'/109869, uuid='9441dc37-86b8-4126-a981-f239d68a72b5', l='ServerLevel[world]', x=1414.62, y=66.00, z=-1039.06, cpos=[88, -65], tl=13934, v=true] died, message: 'Farmer was slain by Zombie'
+[06:47:45] [Craft Scheduler Thread - 617 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] Auto-purge: no claims removed.
+[06:48:08] [Async Chat Thread - #22/INFO]: [Not Secure] <.Russyx7_on> Tan En Dc?
+[06:48:19] [Async Chat Thread - #22/INFO]: [Not Secure] <.santiagodgc> smn
+[06:48:53] [Server thread/INFO]: .santiagodgc has made the advancement [Acquire Hardware]
+[06:49:13] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] PoisonBike00893 has disconnected from the Java server because of Bedrock client disconnected
+[06:49:13] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .PoisonBike00893 disconnected
+[06:49:13] [Server thread/INFO]: .PoisonBike00893 lost connection: Disconnected
+[06:49:13] [Server thread/INFO]: .PoisonBike00893 left the game
+[06:49:20] [Async Chat Thread - #24/INFO]: [Not Secure] <.Russyx7_on> Ando Relejos
+[06:49:32] [Async Chat Thread - #24/INFO]: [Not Secure] <.Russyx7_on> En 5000
+[06:49:51] [Async Chat Thread - #25/INFO]: [Not Secure] <.Padillla_0578> relajado
