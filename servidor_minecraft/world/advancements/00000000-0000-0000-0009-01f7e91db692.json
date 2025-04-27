@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-27 05:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-27 05:18:11 +0000"
@@ -251,7 +257,8 @@
       "minecraft:forest": "2025-04-27 05:19:33 +0000",
       "minecraft:river": "2025-04-27 05:16:30 +0000",
       "minecraft:birch_forest": "2025-04-27 05:16:20 +0000",
-      "minecraft:stony_shore": "2025-04-27 05:08:30 +0000"
+      "minecraft:stony_shore": "2025-04-27 05:08:30 +0000",
+      "minecraft:plains": "2025-04-27 05:32:27 +0000"
     },
     "done": false
   },
