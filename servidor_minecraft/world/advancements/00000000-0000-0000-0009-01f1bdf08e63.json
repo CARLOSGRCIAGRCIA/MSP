@@ -10,6 +10,8 @@
       "minecraft:badlands": "2025-04-27 06:18:43 +0000",
       "minecraft:cold_ocean": "2025-04-27 05:25:41 +0000",
       "minecraft:forest": "2025-04-27 05:11:19 +0000",
+      "minecraft:mangrove_swamp": "2025-04-27 07:30:59 +0000",
+      "minecraft:sparse_jungle": "2025-04-27 07:38:17 +0000",
       "minecraft:deep_ocean": "2025-04-27 05:37:56 +0000",
       "minecraft:river": "2025-04-27 05:14:21 +0000",
       "minecraft:lukewarm_ocean": "2025-04-27 06:14:08 +0000",
@@ -833,6 +835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-04-27 07:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-27 06:58:23 +0000"
@@ -899,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-27 07:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-27 06:04:09 +0000"
@@ -962,6 +976,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-27 07:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-27 07:44:42 +0000"
     },
     "done": true
   },
