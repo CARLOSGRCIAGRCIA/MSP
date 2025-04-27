@@ -159,3 +159,39 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [05:04:10] [Server thread/INFO]: .Padillla_0578 has made the advancement [Getting an Upgrade]
 [05:06:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
 Yo te veo padilla<--[HERE]
+[05:08:29] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username CESARTC3
+[05:08:29] [localSession-7-1/INFO]: [Geyser-Spigot] CESARTC3 (logged in as: CESARTC3) has connected to the Java server
+[05:08:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CESARTC3 joined (UUID: 00000000-0000-0000-0009-01f7e91db692)
+[05:08:29] [Server thread/INFO]: .CESARTC3 joined the game
+[05:08:29] [Server thread/INFO]: .CESARTC3[/127.0.0.1:0] logged in with entity id 2740 at ([world]-61.5, 73.0, 131.5)
+[05:08:30] [Craft Scheduler Thread - 60 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] .CESARTC3 is now registered (00000000-0000-0000-0009-01f7e91db692).
+[05:12:05] [Server thread/INFO]: .Padillla_0578 has made the advancement [Monster Hunter]
+[05:14:33] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username carlosTxGx
+[05:14:33] [localSession-7-2/INFO]: [Geyser-Spigot] carlosTxGx (logged in as: carlosTxGx) has connected to the Java server
+[05:14:34] [Server thread/INFO]: [floodgate] Floodgate player logged in as .carlosTxGx joined (UUID: 00000000-0000-0000-0009-01f29e52ef2e)
+[05:14:34] [Server thread/INFO]: .carlosTxGx joined the game
+[05:14:34] [Server thread/INFO]: .carlosTxGx[/127.0.0.1:0] logged in with entity id 4767 at ([world]-53.241043, 71.0, 119.192535)
+[05:15:06] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .carlosTxGx disconnected
+[05:15:06] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] carlosTxGx has disconnected from the Java server because of Bedrock client disconnected
+[05:15:06] [Server thread/INFO]: .carlosTxGx lost connection: Disconnected
+[05:15:06] [Server thread/INFO]: .carlosTxGx left the game
+[05:15:11] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ZTXXLARA07
+[05:15:11] [localSession-7-3/INFO]: [Geyser-Spigot] ZTXXLARA07 (logged in as: ZTXXLARA07) has connected to the Java server
+[05:15:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ZTXXLARA07 joined (UUID: 00000000-0000-0000-0009-01f84b020f3d)
+[05:15:11] [Server thread/INFO]: .ZTXXLARA07 joined the game
+[05:15:11] [Server thread/INFO]: .ZTXXLARA07[/127.0.0.1:0] logged in with entity id 5159 at ([world]-54.5, 72.0, 120.5)
+[05:15:11] [Craft Scheduler Thread - 97 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] .ZTXXLARA07 is now registered (00000000-0000-0000-0009-01f84b020f3d).
+[05:15:30] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Ingrus05
+[05:15:30] [localSession-7-4/INFO]: [Geyser-Spigot] Ingrus05 (logged in as: Ingrus05) has connected to the Java server
+[05:15:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ingrus05 joined (UUID: 00000000-0000-0000-0009-01ff7e8dfcb1)
+[05:15:30] [Server thread/INFO]: .Ingrus05 joined the game
+[05:15:30] [Server thread/INFO]: .Ingrus05[/127.0.0.1:0] logged in with entity id 5277 at ([world]-69.5, 67.0, 123.5)
+[05:15:31] [Craft Scheduler Thread - 96 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] .Ingrus05 is now registered (00000000-0000-0000-0009-01ff7e8dfcb1).
+[05:15:40] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username carlosTxGx
+[05:15:40] [localSession-7-1/INFO]: [Geyser-Spigot] carlosTxGx (logged in as: carlosTxGx) has connected to the Java server
+[05:15:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as .carlosTxGx joined (UUID: 00000000-0000-0000-0009-01f29e52ef2e)
+[05:15:40] [Server thread/INFO]: .carlosTxGx joined the game
+[05:15:40] [Server thread/INFO]: .carlosTxGx[/127.0.0.1:0] logged in with entity id 5330 at ([world]-60.795902, 73.0, 127.42052)
+[05:16:21] [Server thread/INFO]: .ZTXXLARA07 has made the advancement [Ice Bucket Challenge]
+[05:16:42] [Async Chat Thread - #2/INFO]: [Not Secure] <.Padillla_0578> carlos no se que le metio pero me anda mas fluido el mine
+[05:17:04] [Async Chat Thread - #2/INFO]: [Not Secure] <.carlosTxGx> es porqué es un servidor
