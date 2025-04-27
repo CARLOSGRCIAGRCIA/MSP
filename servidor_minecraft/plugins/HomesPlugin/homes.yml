@@ -1,0 +1,28 @@
+homes:
+  00000000-0000-0000-0009-01f44322008f:
+    casa:
+      ==: org.bukkit.Location
+      world: world
+      x: 62.5
+      y: 64.0
+      z: 203.5
+      pitch: 0.0
+      yaw: -180.0
+  b360436b-8e8a-3c67-a420-75695a92920c:
+    granja:
+      ==: org.bukkit.Location
+      world: world
+      x: -1509.371608854693
+      y: 64.0
+      z: 4694.471171506813
+      pitch: 14.250371
+      yaw: 128.84885
+  00000000-0000-0000-0009-01fb19b6cf88:
+    cris:
+      ==: org.bukkit.Location
+      world: world
+      x: 65.82318
+      y: 64.0
+      z: 207.9015
+      pitch: 24.794891
+      yaw: 116.74979
