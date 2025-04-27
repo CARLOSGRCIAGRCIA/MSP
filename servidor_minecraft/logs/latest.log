@@ -338,3 +338,65 @@ Caused by: java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.
 	at home.jar/me.home.HomesPlugin$HomeCommand.onCommand(HomesPlugin.java:621) ~[home.jar:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
 	... 27 more
+[20:34:33] [Server thread/INFO]: .santiagodgc issued server command: /homesplugin:home mina
+[20:34:33] [Server thread/ERROR]: Command exception: /homesplugin:home mina
+org.bukkit.command.CommandException: Unhandled exception executing command 'homesplugin:home' in plugin HomesPlugin v1.0.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performSignedChatCommand(ServerGamePacketListenerImpl.java:2200) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleSignedChatCommand$12(ServerGamePacketListenerImpl.java:2162) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.bukkit.Sound.valueOf(java.lang.String)' must be Methodref constant
+	at home.jar/me.home.HomesPlugin.teleportPlayer(HomesPlugin.java:201) ~[home.jar:?]
+	at home.jar/me.home.HomesPlugin$HomeCommand.onCommand(HomesPlugin.java:621) ~[home.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[20:34:42] [Server thread/INFO]: .santiagodgc issued server command: /home
+[20:35:57] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .santiagodgc disconnected
+[20:35:57] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] santiagodgc has disconnected from the Java server because of Bedrock client disconnected
+[20:35:57] [Server thread/INFO]: .santiagodgc lost connection: Disconnected
+[20:35:57] [Server thread/INFO]: .santiagodgc left the game
+[20:40:38] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username carlosTxGx
+[20:40:38] [localSession-7-3/INFO]: [Geyser-Spigot] carlosTxGx (logged in as: carlosTxGx) has connected to the Java server
+[20:40:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .carlosTxGx joined (UUID: 00000000-0000-0000-0009-01f29e52ef2e)
+[20:40:38] [Server thread/INFO]: .carlosTxGx joined the game
+[20:40:38] [Server thread/INFO]: .carlosTxGx[/127.0.0.1:0] logged in with entity id 15222 at ([world]-58.41685, 72.0, 122.28733)
+[20:40:39] [Folia Async Scheduler Thread #1/WARN]: [InstantRestock] Async task for InstantRestock v2.5.1 generated an exception
+java.lang.NullPointerException: null
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.get(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted$default(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.instantrestock.listeners.PlayerJoinEvent.onPlayerJoin$lambda$0(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.utils.PluginUpdater.getVersion$lambda$1(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.scheduler.schedulersImpl.folia.FoliaScheduler.runTaskAsynchronously$lambda$9(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:40:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] carlosTxGx has disconnected from the Java server because of Bedrock client disconnected
+[20:40:51] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .carlosTxGx disconnected
+[20:40:51] [Server thread/INFO]: .carlosTxGx lost connection: Disconnected
+[20:40:51] [Server thread/INFO]: .carlosTxGx left the game
