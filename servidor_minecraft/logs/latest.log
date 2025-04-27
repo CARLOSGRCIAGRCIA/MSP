@@ -119,3 +119,14 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:13:02] [Server thread/INFO]: Timings Reset
 [19:13:03] [Craft Scheduler Thread - 0 - JustTPA/INFO]: [JustTPA] You are using the latest version for your server.
 [19:13:03] [ForkJoinPool.commonPool-worker-3/INFO]: [BetterGUI] You are using the latest version
+[19:52:10] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Padillla 0578
+[19:52:10] [localSession-7-2/INFO]: [Geyser-Spigot] Padillla 0578 (logged in as: Padillla_0578) has connected to the Java server
+[19:52:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Padillla_0578 joined (UUID: 00000000-0000-0000-0009-01f1bdf08e63)
+[19:52:11] [Server thread/INFO]: .Padillla_0578 joined the game
+[19:52:11] [Server thread/INFO]: .Padillla_0578[/127.0.0.1:0] logged in with entity id 4 at ([world]2316.0864, 70.0, -6969.3726)
+[19:52:37] [Server thread/INFO]: Villager Villager['Nitwit'/19, uuid='b1bfcdc3-317c-4991-9c59-3ede14069e9d', l='ServerLevel[world]', x=2333.46, y=65.00, z=-6970.56, cpos=[145, -436], tl=14097, v=true] died, message: 'Nitwit was slain by .Padillla_0578'
+[19:53:36] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Ingrus05
+[19:53:36] [localSession-7-3/INFO]: [Geyser-Spigot] Ingrus05 (logged in as: Ingrus05) has connected to the Java server
+[19:53:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ingrus05 joined (UUID: 00000000-0000-0000-0009-01ff7e8dfcb1)
+[19:53:36] [Server thread/INFO]: .Ingrus05 joined the game
+[19:53:36] [Server thread/INFO]: .Ingrus05[/127.0.0.1:0] logged in with entity id 445 at ([world]-37.438747, 71.0, 129.30147)
