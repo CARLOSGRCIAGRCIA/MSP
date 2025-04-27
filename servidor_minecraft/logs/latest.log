@@ -1126,3 +1126,32 @@ Caused by: java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.
 [07:18:55] [Async Chat Thread - #37/INFO]: [Not Secure] <.Padillla_0578> jajaja
 [07:19:38] [Server thread/INFO]: .Russyx7_on has made the advancement [You've Got a Friend in Me]
 [07:19:47] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [-82, 309], pos: BlockPos{x=-1297, y=31, z=4953}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[07:22:00] [Server thread/INFO]: carlos_grcia issued server command: /gamemode creative
+[07:22:00] [Server thread/INFO]: [carlos_grcia: Set own game mode to Creative Mode]
+[07:22:21] [Server thread/INFO]: carlos_grcia issued server command: /gamemode survival
+[07:22:21] [Server thread/INFO]: [carlos_grcia: Set own game mode to Survival Mode]
+[07:22:52] [Server thread/INFO]: carlos_grcia has made the advancement [Acquire Hardware]
+[07:23:13] [Server thread/INFO]: carlos_grcia has made the advancement [Isn't It Iron Pick]
+[07:25:00] [Server thread/WARN]: .Russyx7_on moved wrongly!
+[07:25:03] [Server thread/WARN]: .Russyx7_on moved wrongly!
+[07:25:07] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Russyx7 on has disconnected from the Java server because of Bedrock client disconnected
+[07:25:07] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Russyx7_on disconnected
+[07:25:07] [Server thread/INFO]: .Russyx7_on lost connection: Disconnected
+[07:25:07] [Server thread/INFO]: .Russyx7_on left the game
+[07:25:22] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Russyx7 on
+[07:25:22] [localSession-7-2/INFO]: [Geyser-Spigot] Russyx7 on (logged in as: Russyx7_on) has connected to the Java server
+[07:25:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Russyx7_on joined (UUID: 00000000-0000-0000-0009-01fb377c23a5)
+[07:25:23] [Server thread/INFO]: .Russyx7_on joined the game
+[07:25:23] [Server thread/INFO]: .Russyx7_on[/127.0.0.1:0] logged in with entity id 155544 at ([world]1187.30001, 63.0, -1798.69999)
+[07:25:54] [Server thread/INFO]: carlos_grcia issued server command: /gamemode creative
+[07:25:54] [Server thread/INFO]: [carlos_grcia: Set own game mode to Creative Mode]
+[07:29:17] [Server thread/INFO]: carlos_grcia issued server command: /gamemode spectator
+[07:29:17] [Server thread/INFO]: [carlos_grcia: Set own game mode to Spectator Mode]
+[07:29:38] [Server thread/INFO]: carlos_grcia issued server command: /gamemode creative
+[07:29:38] [Server thread/INFO]: [carlos_grcia: Set own game mode to Creative Mode]
+[07:30:05] [Server thread/INFO]: carlos_grcia issued server command: /gamemode spectator
+[07:30:05] [Server thread/INFO]: [carlos_grcia: Set own game mode to Spectator Mode]
+[07:30:42] [Server thread/INFO]: carlos_grcia issued server command: /gamemode creative
+[07:30:42] [Server thread/INFO]: [carlos_grcia: Set own game mode to Creative Mode]
+[07:31:02] [Server thread/INFO]: carlos_grcia issued server command: /gamemode survival
+[07:31:02] [Server thread/INFO]: [carlos_grcia: Set own game mode to Survival Mode]
