@@ -115,3 +115,47 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [04:55:48] [Server thread/INFO]: .carlosTxGx issued server command: /gamemode 1
 [04:56:01] [Server thread/INFO]: .carlosTxGx issued server command: /gamemode creative
 [04:56:01] [Server thread/INFO]: [.carlosTxGx: Set own game mode to Creative Mode]
+[04:57:08] [Server thread/INFO]: .carlosTxGx issued server command: /privatechest
+[04:57:19] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Russyx7 on
+[04:57:19] [localSession-7-3/INFO]: [Geyser-Spigot] Russyx7 on (logged in as: Russyx7_on) has connected to the Java server
+[04:57:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Russyx7_on joined (UUID: 00000000-0000-0000-0009-01fb377c23a5)
+[04:57:20] [Server thread/INFO]: .Russyx7_on joined the game
+[04:57:20] [Server thread/INFO]: .Russyx7_on[/127.0.0.1:0] logged in with entity id 778 at ([world]-61.5, 71.0, 122.5)
+[04:57:20] [Craft Scheduler Thread - 15 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] .Russyx7_on is now registered (00000000-0000-0000-0009-01fb377c23a5).
+[04:57:30] [Server thread/INFO]: .carlosTxGx issued server command: /gamemode survival
+[04:57:30] [Server thread/INFO]: [.carlosTxGx: Set own game mode to Survival Mode]
+[04:57:57] [Async Chat Thread - #0/INFO]: [Not Secure] <.Russyx7_on> No me deja picar apa
+[04:58:05] [Async Chat Thread - #0/INFO]: [Not Secure] <.Russyx7_on> :c
+[04:58:06] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> estoy probando plugins jajajajaja
+[04:58:22] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> sal de este chunk
+[04:58:26] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> y te dejara
+[04:58:51] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> ahi ya te debería dejar jajaja
+[04:58:52] [Async Chat Thread - #0/INFO]: [Not Secure] <.Russyx7_on> ya
+[04:59:08] [Async Chat Thread - #0/INFO]: [Not Secure] <.Russyx7_on> Uy diske territorio
+[04:59:15] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> ey xd
+[04:59:17] [Async Chat Thread - #0/INFO]: [Not Secure] <.Russyx7_on> como hago mi territorio
+[04:59:26] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> con claim
+[04:59:34] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> usa /claim
+[05:00:00] [Async Chat Thread - #0/INFO]: [Not Secure] <.Russyx7_on> ok
+[05:00:07] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> eoa
+[05:00:10] [Async Chat Thread - #0/INFO]: [Not Secure] <.Russyx7_on> pero primero veo donde hago mi territorio
+[05:00:25] [Async Chat Thread - #0/INFO]: [Not Secure] <.carlosTxGx> epa te dejo voy a ocuparme
+[05:00:28] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] carlosTxGx has disconnected from the Java server because of Bedrock client disconnected
+[05:00:28] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .carlosTxGx disconnected
+[05:00:28] [Server thread/INFO]: .carlosTxGx lost connection: Disconnected
+[05:00:28] [Server thread/INFO]: .carlosTxGx left the game
+[05:00:52] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Padillla 0578
+[05:00:52] [localSession-7-4/INFO]: [Geyser-Spigot] Padillla 0578 (logged in as: Padillla_0578) has connected to the Java server
+[05:00:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Padillla_0578 joined (UUID: 00000000-0000-0000-0009-01f1bdf08e63)
+[05:00:52] [Server thread/INFO]: .Padillla_0578 joined the game
+[05:00:52] [Server thread/INFO]: .Padillla_0578[/127.0.0.1:0] logged in with entity id 1448 at ([world]-73.5, 66.0, 124.5)
+[05:00:53] [Craft Scheduler Thread - 33 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] .Padillla_0578 is now registered (00000000-0000-0000-0009-01f1bdf08e63).
+[05:02:03] [Server thread/INFO]: .Russyx7_on issued server command: /claim
+[05:02:21] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Russyx7_on disconnected
+[05:02:21] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Russyx7 on has disconnected from the Java server because of Bedrock client disconnected
+[05:02:21] [Server thread/INFO]: .Russyx7_on lost connection: Disconnected
+[05:02:21] [Server thread/INFO]: .Russyx7_on left the game
+[05:03:52] [Server thread/INFO]: .Padillla_0578 has made the advancement [Stone Age]
+[05:04:10] [Server thread/INFO]: .Padillla_0578 has made the advancement [Getting an Upgrade]
+[05:06:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+Yo te veo padilla<--[HERE]
