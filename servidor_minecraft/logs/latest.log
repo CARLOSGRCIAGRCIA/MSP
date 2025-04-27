@@ -400,3 +400,80 @@ java.lang.NullPointerException: null
 [20:40:51] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .carlosTxGx disconnected
 [20:40:51] [Server thread/INFO]: .carlosTxGx lost connection: Disconnected
 [20:40:51] [Server thread/INFO]: .carlosTxGx left the game
+[20:48:54] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Juannes101
+[20:48:54] [localSession-7-4/INFO]: [Geyser-Spigot] Juannes101 (logged in as: Juannes101) has connected to the Java server
+[20:48:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Juannes101 joined (UUID: 00000000-0000-0000-0009-01f45f88f442)
+[20:48:55] [Server thread/INFO]: .Juannes101 joined the game
+[20:48:55] [Server thread/INFO]: .Juannes101[/127.0.0.1:0] logged in with entity id 16143 at ([world]-57.5, 84.0, 126.5)
+[20:48:55] [Craft Scheduler Thread - 566 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] .Juannes101 is now registered (00000000-0000-0000-0009-01f45f88f442).
+[20:51:22] [Server thread/INFO]: .Juannes101 has made the advancement [Stone Age]
+[20:52:05] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Juannes101 has disconnected from the Java server because of Bedrock client timed out
+[20:52:05] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Juannes101 disconnected
+[20:52:05] [Server thread/INFO]: .Juannes101 lost connection: Disconnected
+[20:52:05] [Server thread/INFO]: .Juannes101 left the game
+[20:52:28] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Juannes101
+[20:52:28] [localSession-7-1/INFO]: [Geyser-Spigot] Juannes101 (logged in as: Juannes101) has connected to the Java server
+[20:52:28] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Juannes101 joined (UUID: 00000000-0000-0000-0009-01f45f88f442)
+[20:52:28] [Server thread/INFO]: .Juannes101 joined the game
+[20:52:28] [Server thread/INFO]: .Juannes101[/127.0.0.1:0] logged in with entity id 17017 at ([world]27.7, 72.0, 181.58006)
+[20:53:52] [User Authenticator #0/INFO]: UUID of player carlos_grcia is b360436b-8e8a-3c67-a420-75695a92920c
+[20:53:54] [Server thread/INFO]: carlos_grcia joined the game
+[20:53:54] [Server thread/INFO]: carlos_grcia[/127.203.55.128:52265] logged in with entity id 17546 at ([world]-1474.784908393445, 64.0, 4688.698470123786)
+[20:53:54] [Folia Async Scheduler Thread #2/WARN]: [InstantRestock] Async task for InstantRestock v2.5.1 generated an exception
+java.lang.NullPointerException: null
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.get(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted$default(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.instantrestock.listeners.PlayerJoinEvent.onPlayerJoin$lambda$0(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.utils.PluginUpdater.getVersion$lambda$1(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at instantrestock_2.5.1.jar/me.spartacus04.colosseum.scheduler.schedulersImpl.folia.FoliaScheduler.runTaskAsynchronously$lambda$9(Unknown Source) ~[instantrestock_2.5.1.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:54:12] [Server thread/INFO]: .Juannes101 has made the advancement [Getting an Upgrade]
+[20:54:17] [Server thread/INFO]: carlos_grcia issued server command: /home granja
+[20:54:17] [Server thread/WARN]: [HomesPlugin] Task #899 for HomesPlugin v1.0.0 generated an exception
+java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.bukkit.Sound.valueOf(java.lang.String)' must be Methodref constant
+	at home.jar/me.home.HomesPlugin$1.run(HomesPlugin.java:223) ~[home.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:54:18] [Server thread/WARN]: [HomesPlugin] Task #900 for HomesPlugin v1.0.0 generated an exception
+java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.bukkit.Sound.valueOf(java.lang.String)' must be Methodref constant
+	at home.jar/me.home.HomesPlugin$1.run(HomesPlugin.java:223) ~[home.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:54:19] [Server thread/WARN]: [HomesPlugin] Task #901 for HomesPlugin v1.0.0 generated an exception
+java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.bukkit.Sound.valueOf(java.lang.String)' must be Methodref constant
+	at home.jar/me.home.HomesPlugin$1.run(HomesPlugin.java:223) ~[home.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:54:20] [Server thread/WARN]: [HomesPlugin] Task #902 for HomesPlugin v1.0.0 generated an exception
+java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.bukkit.Sound.valueOf(java.lang.String)' must be Methodref constant
+	at home.jar/me.home.HomesPlugin$2.run(HomesPlugin.java:241) ~[home.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
