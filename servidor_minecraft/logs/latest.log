@@ -491,3 +491,35 @@ Yo te veo padilla<--[HERE]
 [06:49:20] [Async Chat Thread - #24/INFO]: [Not Secure] <.Russyx7_on> Ando Relejos
 [06:49:32] [Async Chat Thread - #24/INFO]: [Not Secure] <.Russyx7_on> En 5000
 [06:49:51] [Async Chat Thread - #25/INFO]: [Not Secure] <.Padillla_0578> relajado
+[06:50:02] [Async Chat Thread - #25/INFO]: [Not Secure] <.Padillla_0578> yo estoy rn -10000
+[06:50:05] [Async Chat Thread - #25/INFO]: [Not Secure] <.Russyx7_on> :v
+[06:50:39] [Async Chat Thread - #25/INFO]: [Not Secure] <.Russyx7_on> Tengo 2 Amaduras De Oro Encantadas
+[06:51:18] [Server thread/INFO]: .santiagodgc has made the advancement [Sweet Dreams]
+[06:51:38] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username PoisonBike00893
+[06:51:38] [localSession-7-2/INFO]: [Geyser-Spigot] PoisonBike00893 (logged in as: PoisonBike00893) has connected to the Java server
+[06:51:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .PoisonBike00893 joined (UUID: 00000000-0000-0000-0009-01fb19b6cf88)
+[06:51:39] [Server thread/INFO]: .PoisonBike00893 joined the game
+[06:51:39] [Server thread/INFO]: .PoisonBike00893[/127.0.0.1:0] logged in with entity id 127692 at ([world]64.40081, 64.0, 207.15816)
+[06:52:27] [Server thread/INFO]: .PoisonBike00893 has made the advancement [Acquire Hardware]
+[06:54:59] [User Authenticator #2/INFO]: UUID of player carlos_grcia is b360436b-8e8a-3c67-a420-75695a92920c
+[06:55:00] [Server thread/INFO]: carlos_grcia joined the game
+[06:55:00] [Server thread/INFO]: carlos_grcia[/127.203.55.128:42929] logged in with entity id 129473 at ([world]-58.64121437551892, 73.0, 127.11962237405963)
+[06:55:01] [Craft Scheduler Thread - 654 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] carlos_grcia is now registered (b360436b-8e8a-3c67-a420-75695a92920c).
+[06:58:08] [Server thread/WARN]: .PoisonBike00893 moved wrongly!
+[06:59:04] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Russyx7 on has disconnected from the Java server because of Bedrock client disconnected
+[06:59:04] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Russyx7_on disconnected
+[06:59:04] [Server thread/INFO]: .Russyx7_on lost connection: Disconnected
+[06:59:04] [Server thread/INFO]: .Russyx7_on left the game
+[06:59:25] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Russyx7 on
+[06:59:25] [localSession-7-3/INFO]: [Geyser-Spigot] Russyx7 on (logged in as: Russyx7_on) has connected to the Java server
+[06:59:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Russyx7_on joined (UUID: 00000000-0000-0000-0009-01fb377c23a5)
+[06:59:25] [Server thread/INFO]: .Russyx7_on joined the game
+[06:59:25] [Server thread/INFO]: .Russyx7_on[/127.0.0.1:0] logged in with entity id 132499 at ([world]1414.22412109375, 62.5874885559082, -1123.685302734375)
+[06:59:26] [Server thread/INFO]: carlos_grcia has made the advancement [Stone Age]
+[07:00:01] [Server thread/INFO]: carlos_grcia has made the advancement [Getting an Upgrade]
+[07:00:09] [Async Chat Thread - #26/INFO]: [Not Secure] <.Russyx7_on> no me queria cargar los chunks
+[07:00:12] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] PoisonBike00893 has disconnected from the Java server because of Bedrock client disconnected
+[07:00:12] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .PoisonBike00893 disconnected
+[07:00:12] [Server thread/INFO]: .PoisonBike00893 lost connection: Disconnected
+[07:00:12] [Server thread/INFO]: .PoisonBike00893 left the game
+[07:00:25] [Server thread/WARN]: .Padillla_0578 moved wrongly!
